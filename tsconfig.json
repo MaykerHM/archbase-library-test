@@ -3,7 +3,6 @@
     "target": "ESNext",
     "useDefineForClassFields": true,
     "lib": ["DOM", "DOM.Iterable", "ESNext"],
-    "allowImportingTsExtensions": true,
     "allowJs": false,
     "allowSyntheticDefaultImports": true,
     "strict": true,
@@ -16,18 +15,17 @@
     "jsx": "react-jsx",
     "declaration": true,
     "skipLibCheck": true,
-     "esModuleInterop": true ,
-     "declarationMap": true,
+    "esModuleInterop": true,
+    "declarationMap": true,
     "baseUrl": ".",
-     "paths": {
+    "paths": {
       "archbase-library": [ "src/components/index.ts" ]
     },
     "typeRoots": [
       "node_modules/@types",
-      "src/component/index.d.ts"
+      "src/components/index.d.ts"
     ]
   },
-  "include": ["src", "vitest.config.ts", "**/*.ts", "**/*.tsx"],
-  "exclude": ["node_modules"],
+  "include": ["src"],
   "references": [{ "path": "./tsconfig.node.json" }]
 }
