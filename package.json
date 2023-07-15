@@ -28,6 +28,7 @@
   ],
   "exports": {
     ".": {
+      "types": "./dist/index.d.ts",
       "import": "./dist/archbase-library.es.js",
       "require": "./dist/archbase-library.umd.js"
     },
