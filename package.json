@@ -71,13 +71,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/MaykerHM/archbase-library"
+    "url": "https://github.com/MaykerHM/archbase-library-test"
   },
   "keywords": [],
   "author": "Archbase",
   "bugs": {
-    "url": "https://github.com/MaykerHM/archbase-library/issues"
+    "url": "https://github.com/MaykerHM/archbase-library-test/issues"
   },
-  "homepage": "https://github.com/MaykerHM/archbase-library#readme",
+  "homepage": "https://github.com/MaykerHM/archbase-library-test#readme",
   "license": "MIT"
 }
