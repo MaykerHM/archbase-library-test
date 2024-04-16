@@ -1,3 +1,10 @@
+# [0.1.0](https://github.com/MaykerHM/archbase-library-test/compare/v0.0.5...v0.1.0) (2024-04-16)
+
+
+### Features
+
+* teste release ([861ba1c](https://github.com/MaykerHM/archbase-library-test/commit/861ba1c5f09b85b10bc5182523de89f58ff59e7c))
+
 ### Changelog
 
 All notable changes to this project will be documented in this file. Dates are displayed in UTC.
